@@ -7,7 +7,6 @@
   align-items: center;
   background-color: black;
   padding-bottom: 90px;
-
 }
 .kaufman__title	{
   margin: 0 auto;
@@ -20,7 +19,6 @@
   padding-bottom: 20px;
   color: white;
   z-index: 1;
-  
 }
 .kaufman__subtitle	{
   margin: 0 auto;
@@ -41,27 +39,20 @@
   flex-direction: row;
   justify-content: space-between;
   margin: auto;
-  color: white;  
+  color: white;
   z-index: 1;
-  
- 
 }
-
 .table__heading_theme_dark	{
   padding-bottom: 20px;
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
-
-
 }
 .table__text_theme_dark	{
   text-align: left;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-
-
 }
 .kaufman__triangle 	{
  position: absolute;
@@ -70,6 +61,4 @@
   width: 660px;
   right: -124px;
   z-index: 0;
-  
-
 }
