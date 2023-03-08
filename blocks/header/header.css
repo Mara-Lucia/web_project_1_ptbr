@@ -42,7 +42,6 @@
 .logo {
   width: 730px;
   position: relative;
-  width: 154px;
   height: 31px;
   padding-top: 30px;
   padding-left: 64px;
@@ -61,7 +60,6 @@
   z-index: 1;
 }
 .header__main-illustration {
-  width: 90%;
   position: absolute;
   top: 0px;
   right: 0px;
