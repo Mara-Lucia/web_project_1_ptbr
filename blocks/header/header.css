@@ -6,7 +6,7 @@
   min-height: 600px;
   max-height: 756px;
   z-index: 1;
-    /* parameters for the header section */
+  /* parameters for the header section */
 }
 
 /* here we have two examples of selectors in order to remind you how to set styles for elements */
@@ -16,15 +16,11 @@
   right: 0px;
   height: 568px;
   width: 568px;
-  background-color: #2F80ED;
+  background-color: #2f80ed;
   z-index: 0;
 }
 
-.logo_place_header {
-  width: 730px;
- 
-}
-.logo_place_header__title	{
+.header__title {
   position: relative;
   font-size: 102px;
   width: 730px;
@@ -32,7 +28,7 @@
   padding-left: 64px;
   z-index: 1;
 }
-.logo_place_header__subtitle {
+.header__subtitle {
   position: relative;
   width: 388px;
   height: 25px;
@@ -43,21 +39,21 @@
   z-index: 1;
 }
 
-.logo	{
-position: relative;
-width: 154px;
-height: 31px;
-padding-top: 30px;
-padding-left: 64px;
-z-index: 1;
-
+.logo {
+  width: 730px;
+  position: relative;
+  width: 154px;
+  height: 31px;
+  padding-top: 30px;
+  padding-left: 64px;
+  z-index: 1;
 }
-.header__link	{
-margin: 0;
-position: relative;
-padding-left: 64px;
-flex-direction: row;
-z-index: 1;
+.header__link {
+  margin: 0;
+  position: relative;
+  padding-left: 64px;
+  flex-direction: row;
+  z-index: 1;
 }
 .header__main-illustration-logo {
   position: relative;
@@ -65,6 +61,7 @@ z-index: 1;
   z-index: 1;
 }
 .header__main-illustration {
+  width: 90%;
   position: absolute;
   top: 0px;
   right: 0px;
