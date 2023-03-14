@@ -9,9 +9,14 @@
   display: flex;
   align-self: flex-start;
   justify-content: space-between;
-  align-items: first baseline;
+
+  columns-gap: 20px;
 }
 .two-columns__brief {
+  display: flex;
+  align-self: flex-start;
+  justify-content: space-between;
+
 
 }
  .two-columns__brief-title {

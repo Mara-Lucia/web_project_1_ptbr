@@ -34,7 +34,7 @@
 }
 .techniques-cards__item {
   position: relative;
-  width: 160px;
+  width: 240px;
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
@@ -47,6 +47,7 @@
   padding-top: 60px;
   padding-bottom: 43px;
   padding: 40px;
+  border-radius: 50%;
 }
 .techniques-cards__title {
   padding-bottom: 20px;

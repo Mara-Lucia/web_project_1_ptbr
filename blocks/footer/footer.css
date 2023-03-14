@@ -1,8 +1,9 @@
 .footer {
+  display: flex;
+  position: relative; 
+  justify-content: space-between;
   width: 100%;
   min-height: 350px;
-  display: flex;
-  justify-content: space-between;
   background-color: black;
   padding-top: 60px;
   padding-bottom: 40px;
@@ -17,12 +18,16 @@
   justify-content: space-between;
   row-gap: 20px;
 }
+.footer__main-illustration {
+	color: white;
+}
 
 .about {
   justify-content: space-between;
   height: 25px;
   font-weight: normal;
   color: white;
+  list-style: none;
   }
 
 .footer__column-heading {
@@ -31,6 +36,7 @@
   height: 30px;
   font-weight: bold;
   color: white;
+  padding-right: 50px;
 }
 .footer__column-heading-link {
   list-style: none;
