@@ -9,8 +9,7 @@
   display: flex;
   align-self: flex-start;
   justify-content: space-between;
-
-  columns-gap: 20px;
+  gap: 20px;
 }
 .two-columns__brief {
   display: flex;
