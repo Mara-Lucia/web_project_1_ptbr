@@ -13,28 +13,7 @@
 	  background-color: black;
 	  padding-bottom: 90px;
 	}
-	.kaufman__title	{
-	  margin: 0 auto;
-	  text-align: center;
-	  padding-top: 90px;
-	  width: 60%;
-	  line-height: 1.15;
-	  font-size: 60px;
-	  font-weight: bold;
-	  padding-bottom: 20px;
-	  color: white;
-	  z-index: 1;
-	}
-	.kaufman__subtitle	{
-	  margin: 0 auto;
-	  text-align: center;
-	  width: 60%;
-	  color: white;
-	   height: 34px;
-	  font-size: 24px;
-	  font-weight: normal;
-	  z-index: 1;
-	}
+
 	.table_theme_dark	{
 	  list-style: none;
 	  position: relative;
@@ -59,13 +38,4 @@
 	  line-height: 1.2;
 	  font-size: 18px;
 	  font-weight: normal;
-	}
-	.kaufman__triangle 	{
-	 position: absolute;
-	  bottom: 0px;
-	  height: 636px;
-	  width: 660px;
-	  right: -124px;
-	  z-index: 0;
-	  animation: is-rotating 20s infinite;
 	}

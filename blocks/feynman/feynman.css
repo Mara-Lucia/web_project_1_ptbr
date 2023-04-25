@@ -1,53 +1,10 @@
-.feynman	{
-margin: 0 auto;
-position: relative;
-overflow: hidden;
-background-color: white;
-padding-top: 100px;
-flex-direction: row;
-align-items: center;
-height: 790px;
-
-}
-
-.feynman__title	{
-position: relative;
-margin: 0 auto;
-width: 775px;
-line-height: 1.15;
-font-size: 120px;
-font-weight: bold;
-z-index: 1;
-
-
-}
-.feynman__subtitle	{
-  position: relative;
+.feynman {
   margin: 0 auto;
-  margin-top: 70px;
-  width: 500px;
-  line-height: 51px;
-  font-size: 36px;
-  font-weight: normal;
-  text-align: center;
-   z-index: 1;
-}
-.feynman__link	{
-  position: absolute;
-  right: 48px;
-  height: 50%;
-  line-height: 51px;
-  font-size: 36px;
-  font-weight: normal;
-  -moz-text-decoration-style: set;
-
-}
-.feynman__img{
-position: absolute;
-bottom: 50px;
-left: 0px;
-margin: 0 auto;
-width: 867px;
-height: 637px;
-z-index: 0;
+  position: relative;
+  overflow: hidden;
+  background-color: white;
+  padding-top: 100px;
+  flex-direction: row;
+  align-items: center;
+  height: 790px;
 }

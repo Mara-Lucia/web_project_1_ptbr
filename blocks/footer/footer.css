@@ -7,59 +7,6 @@
   background-color: black;
   padding-top: 60px;
   padding-bottom: 40px;
+  padding-right: 40px;
   font-size: 18px;
-}
-
-.footer__column {
-  list-style: none;
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  row-gap: 20px;
-}
-.footer__main-illustration {
-	color: white;
-}
-
-.about {
-  justify-content: space-between;
-  height: 25px;
-  font-weight: normal;
-  color: white;
-  list-style: none;
-  }
-
-.footer__column-heading {
-  flex-direction: row;
-  list-style: none;
-  height: 30px;
-  font-weight: bold;
-  color: white;
-  padding-right: 50px;
-}
-.footer__column-heading-link {
-  list-style: none;
-  height: 30px;
-  font-weight: bold;
-  text-decoration: none;
-  color: white;
-}
-
-.footer__column-heading-icon-face {
-  display: flex;
-  flex-direction: row;
-  padding-right: 10px;
-  width: 16px;
-  height: 16px;
-}
-.footer__column-heading-icon-inst {
-  display: flex;
-  flex-direction: row;
-  padding-right: 10px;
-  width: 16px;
-  height: 16px;
-  list-style: none;
-  text-decoration: none;
-  color: white;
 }
