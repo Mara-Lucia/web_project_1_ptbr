@@ -1,5 +1,6 @@
 .footer__column {
     list-style: none;
+    color: white;
     position: relative;
     display: flex;
     flex-direction: column;

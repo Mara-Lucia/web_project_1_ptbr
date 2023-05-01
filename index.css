@@ -64,11 +64,14 @@
 @import url(./blocks/resources/__section-title/resources__section-title.css);
 @import url(./blocks/resources/__section-subtitle/resources__section-subtitle.css);
 @import url(./blocks/resources/__logo-zone/resources__logo-zone.css);
+@import url(./blocks/resources/__logo-zone/__logo/resources__logo.css);
 @import url(./blocks/resources/__item/resources__item.css);
 @import url(./blocks/resources/__imag-logo/resources__imag-logo.css);
 /* ----------------------------------footer-------------------------------- */
 @import url(./blocks/footer/footer.css);
 @import url(./blocks/footer/__column/footer__column.css);
+@import url(./blocks/footer/__column/heading-presentation/footer__column-heading-presentation.css);
+@import url(./blocks/footer/__column/heading/__title/footer__column-heading__title.css);
 @import url(./blocks/footer/__column/heading/icon-face/footer__column-heading-icon-face.css);
 @import url(./blocks/footer/__column/heading/icon-face/inst/footer__column-heading-icon-inst.css);
 @import url(./blocks/footer/__column/heading/link/footer__column-heading-link.css);

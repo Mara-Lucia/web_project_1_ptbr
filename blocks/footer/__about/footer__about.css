@@ -1,6 +1,8 @@
 .about {
+    display: flex;
+    flex-direction: column;
     justify-content: space-between;
-    height: 25px;
+    height: 350px;
     font-weight: normal;
     color: white;
     list-style: none;

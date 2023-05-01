@@ -1,9 +1,9 @@
 .resources {
+  display: flex;
+  flex-direction: column;  
+  justify-content: space-between;
   margin: 0 auto;
   min-height: 350px;
-  flex-direction: column;
-  display: flex;
-  justify-content: space-between;
   align-items: center;
   padding-top: 100px;
   padding-bottom: 217px;

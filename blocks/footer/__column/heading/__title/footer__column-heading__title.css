@@ -1,0 +1,9 @@
+.footer__column-heading__title {
+    list-style: none;
+    font-weight: bold;
+    color: white;
+    font-size: 18px;
+    height: 30px;
+    row-gap: 20px;
+    
+}
