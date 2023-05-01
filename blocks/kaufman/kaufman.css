@@ -12,11 +12,9 @@
 	  background-color: black;
 	  padding-bottom: 90px;
 	}
-
 	.table_theme_dark	{
-	  align: center;
 	  list-style: none;
-	  position: relative; 
+	  position: relative;
 	  width: 1400px;
 	  display: flex;
 	  align-items: center;
