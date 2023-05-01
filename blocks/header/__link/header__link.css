@@ -1,0 +1,6 @@
+.header__link {
+    margin: 0;
+    padding-left: 64px;
+    flex-direction: row;
+    z-index: 1;
+  }

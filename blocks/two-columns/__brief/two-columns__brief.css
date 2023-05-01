@@ -1,0 +1,9 @@
+.two-columns__brief {
+    display: flex;
+    align-self: flex-start;
+    justify-content: space-between;
+    margin-top: 24px;
+  }
+
+
+  

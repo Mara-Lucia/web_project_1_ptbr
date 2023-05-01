@@ -1,0 +1,8 @@
+.techniques-cards {
+    display: flex;
+    position: relative;
+    width: 920px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin: auto;
+  }

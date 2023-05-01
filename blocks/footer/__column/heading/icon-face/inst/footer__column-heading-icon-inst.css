@@ -1,0 +1,10 @@
+.footer__column-heading-icon-inst {
+    display: flex;
+    flex-direction: row;
+    padding-right: 10px;
+    width: 16px;
+    height: 16px;
+    list-style: none;
+    text-decoration: none;
+    color: white;
+  }
