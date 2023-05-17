@@ -3,4 +3,5 @@
     padding-left: 64px;
     flex-direction: row;
     z-index: 1;
+    text-decoration: none;
   }

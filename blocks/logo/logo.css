@@ -1,8 +1,9 @@
-.logo {
-    width: 730px;
-    position: relative;
-    height: 31px;
-    padding-top: 30px;
-    padding-left: 64px;
-    z-index: 1;
-  }
+.logo_place-footer{
+  width: 183px;
+}
+
+.logo_place-header{
+  position: absolute;
+  top: 30px;
+  left: 64px;
+}

@@ -1,0 +1,13 @@
+a:link {
+color: black;
+text-decoration: none;
+}
+a:visited {
+    opacity: 30%;
+}
+a:hover {
+color:#ffcc00;
+}
+a:active{
+background-color:antiquewhite;
+}
