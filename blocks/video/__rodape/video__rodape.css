@@ -1,0 +1,8 @@
+.video-rodape {
+    position: absolute;
+    bottom: 0;
+    height: 150px;
+    width: 100%;
+    background-color: #f2f2f2;
+    z-index: 0;
+  }

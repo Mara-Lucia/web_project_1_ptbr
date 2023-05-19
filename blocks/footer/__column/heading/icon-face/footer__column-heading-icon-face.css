@@ -1,5 +1,6 @@
 .footer__column-heading-icon-face {
     display: flex;
+    column-gap: 10px;
     flex-direction: row;
     padding-right: 10px;
     width: 16px;
